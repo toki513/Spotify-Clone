@@ -8,3 +8,15 @@ body{
     margin: 0;
     padding: 0;
 }
+nav{
+    font-family: "EB Garamond", serif;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    height: 64px;
+    background-color: yellow;
+}
+.brand img{
+    width: 90px;
+}
