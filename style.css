@@ -46,7 +46,7 @@ nav ul li{
 .bottom{
     position: sticky;
     background-color: rgba(255, 255, 0, 0.539);
-    height: 12vh;
+    height: 12.5vh;
     display: flex;
     justify-content: center;
     align-items: center;
