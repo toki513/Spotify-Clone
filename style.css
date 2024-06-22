@@ -61,3 +61,17 @@ nav ul li{
 #myProgressBar{
     width: 80vw;
 }
+.songItem{
+    height: 50px;
+    display: flex;
+    background-color: white;
+    color: black;
+    justify-content: space-between;
+    margin: 12px 0;
+    justify-content: center;
+    border-radius: 34px;
+}
+.songItem img{
+    width: 42px;
+    margin:0 23px ;
+}
