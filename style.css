@@ -68,10 +68,14 @@ nav ul li{
     color: black;
     justify-content: space-between;
     margin: 12px 0;
-    justify-content: center;
+    align-items: center;
     border-radius: 34px;
 }
 .songItem img{
     width: 42px;
-    margin:0 23px ;
+    margin:0 20px ;
+    border-radius: 30px;
+}
+.timeStamp{
+    margin: 0 20px;
 }
